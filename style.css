@@ -20,3 +20,12 @@ h1,h2,h3 {
   display: flex;
   justify-content: center;
 }
+
+#giphy-container {
+  text-align: center;
+}
+
+#gif {
+  display: block;
+  margin: auto auto 20px auto;
+}
