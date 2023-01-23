@@ -1,0 +1,30 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "Sandbox for testing/experimenting",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leedustins/sandbox.git"
+  },
+  "keywords": [
+    "NPM",
+    "ES6",
+    "Learning"
+  ],
+  "author": "Dustin Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leedustins/sandbox/issues"
+  },
+  "homepage": "https://github.com/leedustins/sandbox#readme",
+  "dependencies": {
+    "dayjs": "^1.11.7"
+  },
+  "devDependencies": {
+    "webpack": "^5.75.0"
+  }
+}
